@@ -1,0 +1,12 @@
+Gruntfile.js
+frontend/html/main.html
+frontend/html/portal.html
+client/res/templates/site/navbar.tpl
+client/res/templates/site/footer.tpl
+client/src/views/site/navbar.js
+client/src/views/site/master.js
+client/src/views/admin/index.js
+client/img/favicon.ico
+client/img/favicon196x196.png
+client/img/logo.png
+install/core/tpl/footer.tpl
